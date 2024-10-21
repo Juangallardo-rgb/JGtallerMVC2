@@ -7,3 +7,12 @@ C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC\obj\Debug\net8.0\JGtalle
 C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC\obj\Debug\net8.0\JGtallerMVC2.RazorAssemblyInfo.cache
 C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC\obj\Debug\net8.0\JGtallerMVC2.RazorAssemblyInfo.cs
 C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC\obj\Debug\net8.0\JGtallerMVC2.sourcelink.json
+C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC2\obj\Debug\net8.0\JGtallerMVC2.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC2\obj\Debug\net8.0\JGtallerMVC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC2\obj\Debug\net8.0\JGtallerMVC2.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC2\obj\Debug\net8.0\JGtallerMVC2.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC2\obj\Debug\net8.0\JGtallerMVC2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC2\obj\Debug\net8.0\JGtallerMVC2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC2\obj\Debug\net8.0\JGtallerMVC2.RazorAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC2\obj\Debug\net8.0\JGtallerMVC2.RazorAssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\JGtallerMVC2\JGtallerMVC2\obj\Debug\net8.0\JGtallerMVC2.sourcelink.json

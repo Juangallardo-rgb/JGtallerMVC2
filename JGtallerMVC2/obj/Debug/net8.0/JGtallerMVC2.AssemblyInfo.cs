@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JGtallerMVC2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56a82ac5074310b41d19eb1bcbcd6234b4f15fef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3706f805177bdc99e1c6001a18bd29534440a9a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("JGtallerMVC2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JGtallerMVC2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

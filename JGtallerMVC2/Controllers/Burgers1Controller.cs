@@ -12,9 +12,9 @@ namespace JGtallerMVC2.Controllers
 {
     public class Burgers1Controller : Controller
     {
-        private readonly JGtallerMVCContext _context;
+        private readonly JGtallerMVC2Context _context;
 
-        public Burgers1Controller(JGtallerMVCContext context)
+        public Burgers1Controller(JGtallerMVC2Context context)
         {
             _context = context;
         }

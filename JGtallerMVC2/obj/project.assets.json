@@ -7719,11 +7719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\JGtallerMVC2.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC2\\JGtallerMVC2.csproj",
       "projectName": "JGtallerMVC2",
-      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\JGtallerMVC2.csproj",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC2\\JGtallerMVC2.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

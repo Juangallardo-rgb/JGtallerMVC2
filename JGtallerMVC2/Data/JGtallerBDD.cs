@@ -12,5 +12,5 @@ using JGtallerMVC2.Models;
         {
         }
 
-        public DbSet<JGtallerMVC.Models.Burger> Burger { get; set; } = default!;
+        public DbSet<JGtallerMVC2.Models.Burger> Burger { get; set; } = default!;
     }

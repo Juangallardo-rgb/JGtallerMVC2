@@ -12,8 +12,7 @@ namespace JGtallerMVC2.Models
             
 
         [Range(0.01, 9999.99)]
-            public decimal Price { get; set; }
-            public List
+            public decimal Price { get; set; }         
         
     }
 }

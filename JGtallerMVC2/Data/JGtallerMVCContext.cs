@@ -3,17 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using JGtallerMVC.Models;
+using JGtallerMVC2.Models;
 
 namespace JGtallerMVC2.Data
 {
-    public class JGtallerMVCContext : DbContext
+    public class JGtallerMVC2Context : DbContext
     {
-        public JGtallerMVCContext (DbContextOptions<JGtallerMVCContext> options)
+        public JGtallerMVC2Context (DbContextOptions<JGtallerMVC2Context> options)
             : base(options)
         {
         }
 
-        public DbSet<JGtallerMVC.Models.Burger> Burger { get; set; } = default!;
+        public DbSet<JGtallerMVC2.Models.Burger> Burger { get; set; } = default!;
     }
 }
