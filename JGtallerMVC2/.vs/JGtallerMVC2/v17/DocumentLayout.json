@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\models\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC.csproj|solutionrelative:models\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\models\\promo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|solutionrelative:models\\promo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\data\\jgtallerbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|solutionrelative:data\\jgtallerbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\controllers\\burgerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC.csproj|solutionrelative:controllers\\burgerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\controllers\\burgers1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC.csproj|solutionrelative:controllers\\burgers1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\data\\jgtallermvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|solutionrelative:data\\jgtallermvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\jgtallermvc2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC2.csproj|solutionrelative:jgtallermvc2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC.csproj|c:\\users\\dell\\documents\\github\\jgtallermvc2\\jgtallermvc\\migrations\\20241007182001_version1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC49A6B-C4C1-4776-9C45-C0EE874DCAA0}|JGtallerMVC.csproj|solutionrelative:migrations\\20241007182001_version1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Promo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Models\\Promo.cs",
+              "RelativeDocumentMoniker": "Models\\Promo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Models\\Promo.cs",
+              "RelativeToolTip": "Models\\Promo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:48:19.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Burgers1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Controllers\\Burgers1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Burgers1Controller.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Controllers\\Burgers1Controller.cs",
+              "RelativeToolTip": "Controllers\\Burgers1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:40:49.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BurgersController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Controllers\\BurgersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BurgersController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Controllers\\BurgersController.cs",
+              "RelativeToolTip": "Controllers\\BurgersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:11:19.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:46:22.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JGtallerBDD.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Data\\JGtallerBDD.cs",
+              "RelativeDocumentMoniker": "Data\\JGtallerBDD.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Data\\JGtallerBDD.cs",
+              "RelativeToolTip": "Data\\JGtallerBDD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:46:34.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Models\\Burger.cs",
+              "RelativeDocumentMoniker": "Models\\Burger.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Models\\Burger.cs",
+              "RelativeToolTip": "Models\\Burger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:55:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T18:16:50.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:47:11.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:47:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JGtallerMVCContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Data\\JGtallerMVCContext.cs",
+              "RelativeDocumentMoniker": "Data\\JGtallerMVCContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Data\\JGtallerMVCContext.cs",
+              "RelativeToolTip": "Data\\JGtallerMVCContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:46:47.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JGtallerMVC2.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\JGtallerMVC2.csproj",
+              "RelativeDocumentMoniker": "JGtallerMVC2.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\JGtallerMVC2.csproj",
+              "RelativeToolTip": "JGtallerMVC2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T15:45:06.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241007182001_VERSION1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Migrations\\20241007182001_VERSION1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241007182001_VERSION1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\JGtallerMVC2\\JGtallerMVC\\Migrations\\20241007182001_VERSION1.cs",
+              "RelativeToolTip": "Migrations\\20241007182001_VERSION1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:20:01.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
